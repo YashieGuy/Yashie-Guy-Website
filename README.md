@@ -1,4 +1,5 @@
 # Welcome to Yashie Guy's Website
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 Yashie Guy loves KSP a lot!
 
 ## Projects
@@ -13,5 +14,3 @@ If someone wants to contact him:
 
 1. Go to https://forum.kerbalspaceprogram.com/index.php and compose a message for him.
 2. Go to https://www.youtube.com/channel/UCCfqdbzPb7M0BEEnSJmYK_A and comment on one of his videos.
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
