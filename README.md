@@ -15,3 +15,5 @@ If someone wants to contact him:
 
 1. Go to https://forum.kerbalspaceprogram.com/index.php and compose a message for him.
 2. Go to https://www.youtube.com/channel/UCCfqdbzPb7M0BEEnSJmYK_A and comment on one of his videos.
+
+<iframe width="300" height="140" src="https://www.voicy.network/embed/FpjD0DzsDUWYLazWE9Iyng"></iframe>
