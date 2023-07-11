@@ -21,6 +21,8 @@ If someone wants to contact him:
 
 have you ever wonder what the meaning of life is? i have. when i think of life i think of animals and plants (i know... its nerdy). its weird that there two meaning for a word. have you ever thought of the fact that we have come such a long way for humans? anyways: yashie, off and gaming. adiosu, gamers!
                                                                                                                                                                      
+## BLOG
+
 ![carbon](https://github.com/YashieGuy/Yashie-Website/assets/87711879/910d5f2e-d1df-446c-a32a-111dfe202453)
 
 ![carbon (1)](https://github.com/YashieGuy/Yashie-Website/assets/87711879/8abe10ec-d5e1-4226-a7d7-2df4596a4eba)
